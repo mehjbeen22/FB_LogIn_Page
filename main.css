@@ -1,0 +1,98 @@
+*/{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+body{
+    width: 100%;
+    background-color: #f0f2f5;
+}
+form{
+    background-color: #fff;
+    position: absolute;
+    width: 320px;
+    height: 270px;
+    padding: 10px 5px 20px 5px;
+    margin: -10vh 850px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px -7px;
+
+}
+input[type="text"],input[type='password']{
+    display: block;
+    background-color: #fff;
+    margin: auto;
+    padding: 10px 40px;
+    border: 1.5px solid rgb(200,200,200);
+    width: 200px;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+button{
+    border: none;
+    background-color: #1877f2;
+    color: white;
+    margin: auto;
+    width: 283px;
+    display: block;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-weight: bold;
+    cursor: pointer;
+}
+.f-pswrd{
+    display: block;
+    width: 200px;
+    margin: auto;
+    color: #1877f2;
+    padding-left: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+}
+.line{
+    border-top: 1px solid black;
+    opacity: 0.2;
+}
+.btn2{
+    width: 180px;
+    font-size: 14px;
+    background-color: green;
+    text-align: center;
+}
+.sublink h3{
+    width: 270px;
+    position: relative;
+    top: 40px; left: 40px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 130 px 890px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.sublink h3 a{
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    position: relative;
+    top: 15px; left: 818px;
+}
+.fcant{
+    width: 350px;
+    margin-left: 135px;
+    margin-top: 21vh;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fcant img{
+    width: 399px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+    word-spacing: 3px;
+}
